@@ -1,1 +1,0 @@
-# Fixing-Inefficient-Queries-sol
